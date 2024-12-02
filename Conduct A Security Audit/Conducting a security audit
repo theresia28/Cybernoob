@@ -80,3 +80,38 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ●	While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 
 ●	The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
+
+CONTROL CATEGORIES
+
+Controls within cybersecurity are grouped into three main categories:
+
+● Administrative/Managerial controls
+
+● Technical controls
+
+● Physical/Operational controls
+
+Administrative/Managerial controls address the human component of cybersecurity.
+These controls include policies and procedures that define how an organization
+
+manages data and clearly defines employee responsibilities, including their role in
+protecting the organization. While administrative controls are typically policy based,
+the enforcement of those policies may require the use of technical or physical controls.
+
+TECHNICAL CONTROL
+
+consist of solutions such as firewalls, intrusion detection systems
+(IDS), intrusion prevention systems (IPS), antivirus (AV) products, encryption, etc.
+Technical controls can be used in a number of ways to meet organizational goals and
+objectives.
+
+Physical/Operational controls include door locks, cabinet locks, surveillance cameras,
+badge readers, etc. They are used to limit physical access to physical assets by
+unauthorized personnel.
+
+CONTROL TYPES
+Control types include, but are not limited to:
+1. Preventative
+2. Corrective
+3. Detective
+4. Deterrent
