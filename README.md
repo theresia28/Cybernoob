@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! Here, you'll find projects, tools, and re
 
 ## 🛠️ About Me
 
-Hi, I'm [Your Name] 👋, a [mention your current role or status, e.g., cybersecurity enthusiast, SOC Analyst, fresh graduate]. I am passionate about exploring, learning, and building solutions in the world of cybersecurity. My areas of interest include:
+Hi, I'm Jessia Hutabarat 👋, a new cybersecurity enthusiast and fresh graduate. I am passionate about exploring, learning, and building solutions in the world of cybersecurity. My areas of interest include:
 
 - 🔍 Network Security  
 - 🛡️ Vulnerability Assessment  
@@ -59,7 +59,7 @@ Feel free to explore my work and connect with me!
 
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🐙 [GitHub](https://github.com/yourusername)  
-- ✉️ Email: [youremail@example.com]  
+- ✉️ Email: hutabaratjessia@gmail.com  
 
 ---
 
