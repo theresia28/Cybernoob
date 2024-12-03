@@ -110,6 +110,7 @@ badge readers, etc. They are used to limit physical access to physical assets by
 unauthorized personnel.
 
 CONTROL TYPES
+
 Control types include, but are not limited to:
 1. Preventative
 2. Corrective
