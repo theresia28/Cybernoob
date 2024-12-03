@@ -19,6 +19,7 @@ SCOPE: The scope is defined as the entire security program at Botium Toys. This 
 GOALS: Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices need to be implemented to  improve Botium Toys’ security posture.
 
 CURRENT ASSET
+
 Assets managed by the IT Department include: 
 
 ●	On-premises equipment for in-office business needs 
