@@ -9,6 +9,8 @@ You are tasked with analyzing the situation and determining which network protoc
 log from tcpdump packet data
 In the tcpdump log, you find the following information:
 
+![chrome_jd8ezyb2V1](https://github.com/theresia28/Cybernoob/raw/main/Networks%20and%20Network%20Security/UDP.png)
+
 The first two lines of the log file show the initial outgoing request from your computer to the DNS server requesting the IP address of yummyrecipesforme.com. This request is sent in a UDP packet.
 
 The third and fourth lines of the log show the response to your UDP packet. In this case, the ICMP 203.0.113.2 line is the start of the error message indicating that the UDP packet was undeliverable to port 53 of the DNS server.
