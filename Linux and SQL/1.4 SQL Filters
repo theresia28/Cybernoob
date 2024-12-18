@@ -10,4 +10,5 @@ There was a potential security incident that occurred after business hours (afte
 
 The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred after business hours:  
 
-![Directory Structure](https://github.com/theresia28/cybernoob-asset/blob/main/SQL%20to%20filter%20Failed%20login%20attempts.png)
+# SQL to Filter Failed Login Attempts
+
